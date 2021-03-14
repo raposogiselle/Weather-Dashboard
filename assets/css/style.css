@@ -1,0 +1,50 @@
+body {
+    font-family: 'Jost', sans-serif;
+
+}
+
+.header {
+    font-size: 2.5rem; 
+}
+
+#container-header {
+    background-color: rgb(20, 123, 219);
+    margin-bottom: 1rem;
+}
+
+.container-fluid {
+    background-color:
+}
+
+.form-rounded {
+    border-radius: 2rem;
+    margin-bottom: 1rem;
+}
+
+.current-city {
+    font-size: 2rem;
+}
+
+.list-group {
+    margin-bottom: 1.5rem;
+}
+
+.current-city {
+    color: rgba(97, 96, 96, 0.932);
+}
+
+#today {
+    color: rgba(97, 96, 96, 0.932);
+}
+
+.card-header {
+    color: rgba(97, 96, 96, 0.932);
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+.card {
+    margin: 1rem;
+    box-shadow:  4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(137, 203, 247);
+}
