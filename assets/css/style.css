@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #000000;
+    background-image: linear-gradient(147deg, #000000 0%, #04619f 74%);         
+    font-family: 'Raleway', sans-serif;
+  }
+  header {
+    background-color: #083353;
+    height: 125px;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  header h1 {
+    padding-top: 35px;
+    color: #f2f4f5;
+    font-size: 48px;
+    height: auto;
+  }
+  .main-container {
+    margin: 0 auto;
+  }
+
+  .btn-info{
+      background-color: #f2f4f5!;
+  }
+  #search-block {
+    border: 2px solid #f2f4f5;
+  }
+  
+  #label {
+    color: #f2f4f5;
+    display: block;
+  }
+  #search-input {
+      display: inline-block;
+  }
+  
+  #current-city{
+    height: 350px;
+    color: #f2f4f5;
+    /* border: 2px solid lightgrey;
+    border-radius: 2px; */
+    /* s */
+    margin-bottom: 20px;
+    font-size: larger;
+
+  }
+.forecast-title{
+  text-align: center;
+  color: #f2f4f5;
+  width: 100;
+  background-color:  #083353;
+}
+.forecast {
+  width: 100%;
+  border: 2px solid #f2f4f5;
+  border-radius: 2px;
+}
+  #five-day {
+    height: auto;
+  }
+  .card {
+    display: inline-block;
+    width: fit-content;
+    text-align: center;
+    background-color: lightblue;
+    margin: 3px;
+  }
+  .good {
+    background-color: lightskyblue;
+    width: fit-content;
+  }
+  .moderate {
+    background-color: orange;
+    width: fit-content;
+  }
+  .severe {
+    background-color: red;
+    width: fit-content;
+  }
+  .btnCity {
+    background-color: rgb(209, 203, 203);
+    margin-top: 10px;
+  }
