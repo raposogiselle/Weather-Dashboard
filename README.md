@@ -5,4 +5,4 @@ Simply use the search bar on the left, type your city. Click search and the curr
 App functionality. Currently showing saved searched cities.
 
 ![App Functionality]
-(/Users/giselleraposo/Documents/Weather-Dashboard/weather-dassboard.png)
+(weather-dassboard.png)
